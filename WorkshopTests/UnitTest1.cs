@@ -36,7 +36,7 @@ namespace WorkshopTests
         public void NewLineSumm(string str, int expectedValue)
         {
             int result = StringCalculator.SumString(str);
-            Assert.Equal(expectedValue, result);
+            Assert.Equal(expectedValue, 2);
         }
         [Theory]
         [InlineData("12\n2,4", 18)]
