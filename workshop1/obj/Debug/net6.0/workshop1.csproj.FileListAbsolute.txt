@@ -1,0 +1,15 @@
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\bin\Debug\net6.0\workshop1.exe
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\bin\Debug\net6.0\workshop1.deps.json
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\bin\Debug\net6.0\workshop1.runtimeconfig.json
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\bin\Debug\net6.0\workshop1.dll
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\bin\Debug\net6.0\workshop1.pdb
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\obj\Debug\net6.0\workshop1.csproj.AssemblyReference.cache
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\obj\Debug\net6.0\workshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\obj\Debug\net6.0\workshop1.AssemblyInfoInputs.cache
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\obj\Debug\net6.0\workshop1.AssemblyInfo.cs
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\obj\Debug\net6.0\workshop1.csproj.CoreCompileInputs.cache
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\obj\Debug\net6.0\workshop1.dll
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\obj\Debug\net6.0\refint\workshop1.dll
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\obj\Debug\net6.0\workshop1.pdb
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\obj\Debug\net6.0\workshop1.genruntimeconfig.cache
+C:\Users\wasilewskij\Downloads\workshop1\workshop1\workshop1\obj\Debug\net6.0\ref\workshop1.dll
