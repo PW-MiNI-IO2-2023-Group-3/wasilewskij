@@ -10,6 +10,7 @@ namespace workshop1
     {
         public static int SumString(string str)
         {
+            int nowazmienna = 12;
             if (str == String.Empty)
                 return 0;
 
